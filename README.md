@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Tailwind CSS, React, GSAP**
 
- 💬 Ask me about **Frontend Queries**
+ 💬 Ask me about **Website UI, Frontend Queries**
 
  ⚡ Fun fact **Fun Fact: In India, we call debugging "Jugaad" - our unique way to fix code! 😄**
 
