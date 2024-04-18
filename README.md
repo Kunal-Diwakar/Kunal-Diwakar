@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Fashion Website UI**
+ 🔭 I’m currently working on **Making Twitter Clone**
  
  🌱 I’m currently learning **Tailwind CSS, React, GSAP**
 
