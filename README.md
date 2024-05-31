@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Making Twitter Clone**
  
- 🌱 I’m currently learning **Tailwind CSS, React, GSAP**
+ 🌱 I’m currently learning **React, GSAP**
 
  💬 Ask me about **Website UI, Frontend Queries**
 
