@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Making Twitter Clone**
+ 🔭 I’m currently working on **Making a Frontend Project for my Portfolio**
  
- 🌱 I’m currently learning **React, GSAP**
+ 🌱 I’m currently learning **React**
 
  💬 Ask me about **Website UI, Frontend Queries**
 
