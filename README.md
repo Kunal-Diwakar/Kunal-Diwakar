@@ -16,7 +16,7 @@
 
  💬 Ask me about **Website UI, Frontend Queries**
 
- ⚡ Fun fact **Fun Fact: In India, we call debugging "Jugaad" - our unique way to fix code! 😄**
+ ⚡ Fun fact **In India, we call debugging "Jugaad" - our unique way to fix code! 😄**
 
  </div>
  
