@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Making an Online Compiler Project for my Portfolio**
  
- 🌱 I’m currently learning **React**
+ 🌱 I’m currently learning **Typescript**
 
  💬 Ask me about **Website UI, Frontend Queries**
 
