@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Making an Online Compiler Project for my Portfolio**
+ 🔭 I’m currently working on **E-Commerce Website**
  
- 🌱 I’m currently learning **Typescript**
+ 🌱 I’m currently learning **Next.js**
 
  💬 Ask me about **Website UI, Frontend Queries**
 
