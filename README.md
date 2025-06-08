@@ -1,40 +1,31 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kunal-Diwakar.Kunal-Diwakar"/>
+<h1 align="center"><samp>Code Meets Creativity </samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kunal+Diwakar!;" />
-</h1>
+<h2 align="center"><samp>Hi 👋 I'm Kunal Diwakar</samp></h2>
+<h3 align="center"><samp>A creative developer from India</samp> </h3>
 
-<h3 align="center">A Passionate Creative Developer From India</h3>
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
+
+<!-- Badge -->
+<p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Kunal-Diwakar.Kunal-Diwakar"/> </p>
+
+
+<div style="margin-bottom: 200px;"></div>
+
+<samp>- 📫 Reach me at https://linkedin.com/in/kunal-diwakar-6772a62b7</samp>
+
+<samp>- 📫 Reach me at kunaldiwakar1999@gmail.com</samp>
+
+<samp>- 🎨 Creative Developer: Blending code & artistry for stunning interfaces ✨</samp>
+
+<samp>- ⌨️ Fun fact: I spend approximately 8 hours coding every day! 💻</samp>
 
 <br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **3D Website**
- 
- 🌱 I’m currently learning **Three.js, GLSL**
-
- 💬 Ask me about **Website UI, Frontend Queries**
-
- ⚡ Fun fact **In India, we call debugging "Jugaad" - our unique way to fix code! 😄**
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:kunaldiwakar1999@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/kunal-diwakar-6772a62b7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
-
- <hr/>
+<br/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,nodejs,express,php" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,nodejs,express,php" /><br>
     <img src="https://skillicons.dev/icons?i=java,c,mongodb,mysql,git,github,figma,vscode" /><br>
 </div>
 
